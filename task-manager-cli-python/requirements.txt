@@ -1,0 +1,8 @@
+# This project uses only Python standard library
+# No external dependencies required!
+#
+# Standard library modules used:
+# - sys (command-line arguments)
+# - json (JSON file handling)
+# - os (file path operations)
+# - datetime (timestamps)

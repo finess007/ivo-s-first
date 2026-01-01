@@ -1,0 +1,12 @@
+{
+  "name": "task-manager-cli",
+  "version": "1.0.0",
+  "description": "A simple command-line task manager for beginners",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["cli", "todo", "task-manager", "beginner"],
+  "author": "Your Name",
+  "license": "MIT"
+}
